@@ -1,0 +1,20 @@
+export const lexico={
+    "integer"   :{"expre":"integer" ,"nro":"1"},
+    "real"      :{"expre":"real"    ,"nro":"1"},
+    "char"      :{"expre":"char"    ,"nro":"1"},
+    "boolean"   :{"expre":"boolean" ,"nro":"1"},
+    "string"    :{"expre":"string"  ,"nro":"1"},
+    "var"       :{"expre":"var"     ,"nro":"1"},
+    "write"     :{"expre":"write"   ,"nro":"1"},
+    "program"   :{"expre":"program" ,"nro":"1"},
+    "end"       :{"expre":"end"     ,"nro":"1"},
+    "if"        :{"expre":"if"      ,"nro":"1"},
+    "then"      :{"expre":"then"    ,"nro":"1"},
+    "begin"     :{"expre":"begin"   ,"nro":"1"},
+    "else"      :{"expre":"else"    ,"nro":"1"},
+    "while"     :{"expre":"while"   ,"nro":"1"},
+    "do"        :{"expre":"do"      ,"nro":"1"},
+    "for"       :{"expre":"for"     ,"nro":"1"},
+    "case"      :{"expre":"case"    ,"nro":"1"},
+    "of"        :{"expre":"of"      ,"nro":"1"}
+}
