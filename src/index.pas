@@ -1,4 +1,5 @@
-program index;
-    var aa:real;
+program main12;
+    var aa : real;
+        bb : integer;
 begin
 end.
