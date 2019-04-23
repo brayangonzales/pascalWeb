@@ -42,7 +42,8 @@ var lexico=function(codigos){
                             }
                         }
                     }else{
-                        estado="q0";
+                        est=0;
+                        estado=estado_inicial[est];
                         i--;
                     }
                     
